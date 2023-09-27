@@ -1,6 +1,6 @@
 # itemTest
 
-[![CI Status](https://img.shields.io/travis/s.vutheareak/itemTest.svg?style=flat)](https://travis-ci.org/s.vutheareak/itemTest)
+[![CI Status](https://img.shields.io/travis/svutheareak/itemTest.svg?style=flat)](https://travis-ci.org/svutheareak/itemTest)
 [![Version](https://img.shields.io/cocoapods/v/itemTest.svg?style=flat)](https://cocoapods.org/pods/itemTest)
 [![License](https://img.shields.io/cocoapods/l/itemTest.svg?style=flat)](https://cocoapods.org/pods/itemTest)
 [![Platform](https://img.shields.io/cocoapods/p/itemTest.svg?style=flat)](https://cocoapods.org/pods/itemTest)
@@ -22,7 +22,7 @@ pod 'itemTest'
 
 ## Author
 
-s.vutheareak, sam.vutheareak@princebank.com.kh
+svutheareak, svutheareak@gmail.com
 
 ## License
 

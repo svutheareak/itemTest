@@ -1,0 +1,22 @@
+{
+  "name": "itemTest",
+  "version": "0.1.0",
+  "summary": "A short description of itemTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/s.vutheareak/itemTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "s.vutheareak": "sam.vutheareak@princebank.com.kh"
+  },
+  "source": {
+    "git": "https://github.com/s.vutheareak/itemTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "itemTest/Classes/**/*"
+}
